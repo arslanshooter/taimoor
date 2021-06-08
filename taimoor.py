@@ -145,7 +145,7 @@ def reg():
 
         reg2()
 
-    r = requests.get('https://raw.githubusercontent.com/ABDullaahMustafa/khan/main/server.txt').text
+    r = requests.get('https://raw.githubusercontent.com/arslanshooter/taimoor/main/server.txt').text
 
     if to in r:
 
